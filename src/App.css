@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+img{
+  /* width: 30%; */
+}
+body{
+  background-color: #b3e5fc;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+}
+h2{
+  text-align: center;
+  margin: 20px  0;
+}
+.textLeft{
+  text-align: left;
+}
+.card{
+  width: 400px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: auto;
+}
+.cat{
+  color: #344859;
+  font-weight: 600;
+}
+.title{
+  font-size: 12px;
+}
+.border-start{
+  border-color: #344859 !important;
+}
+.image:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.image{
+  min-width: 155px;
+  padding: 50px;
+  transition: transform .2s; /* Animation */
+  /* width: 200px;
+  height: 200px; */
+  margin: 0 auto;
+}
+.stats{
+  background: #f2f5f8;
+  color: #000;
+}
+.article{
+  font-size: 15px;
+  color: #000;
+}
+.number1{
+  font-weight: 500;
+  color: #000;
+}
+.followers{
+  font-size: 15px;
+  color: #000;
+}
+.number2{
+  font-weight: 500;
+  color: #000;
+}
+.rating{
+  font-size: 15px;
+  color: #000;
+}
+.number3{
+  font-weight: 500;
+  color: #000;
+}
+
